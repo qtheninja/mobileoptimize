@@ -6,7 +6,11 @@ Went through Main.js and identified all math calcualtions and if it was indeed i
 ## Image rendering
 Looked at how many images were being rendered. Noticed there ws 200 being rendered and reduced it to 15
 
+## Image compression
+I made the images significantly smaller compression wise and size wise
 
+####Citations
+http://fortheloveofseo.com/blog/performance/leverage-browser-caching-how-to-add-expires-headers/
 
 
 
